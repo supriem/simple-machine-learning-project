@@ -9,4 +9,4 @@ For this project we need : # Steps
 5> Train the model:::
 6>  Evaluate and improve`
 
-creds:https://www.youtube.com/watch?v=_uQrJ0TkZlc
+creds:I 've done this project by watching tutorial provided by MOSH.
