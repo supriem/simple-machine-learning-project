@@ -1,4 +1,6 @@
 # Simple-machine-learning-project
+Just open music.ipynb file contains the python codes
+Other files such as music recommender.dot and job lib will automatically created by code which is explained in music.ipynb file.
 It can predict the genre of music that male or female likes according to data.
 This project is very simple and easy for beginners who wants to understand basics of machine learning.
 For this project we need : # Steps 
