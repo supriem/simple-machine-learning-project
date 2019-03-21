@@ -1,4 +1,4 @@
-# Simple-machine-learning-project
+# Simple-machine-learning-project this project predicts the music that male or female likes using distance vector algorithm.
 Just open music.ipynb file contains the python codes
 Other files such as music recommender.dot and job lib will automatically created by code which is explained in music.ipynb file.
 It can predict the genre of music that male or female likes according to data.
@@ -11,4 +11,4 @@ For this project we need : # Steps
 5> Train the model:::
 6>  Evaluate and improve`
 
-creds:I 've done this project by watching tutorial provided by MOSH.
+creds:https://www.youtube.com/watch?v=_uQrJ0TkZlc for more`.
